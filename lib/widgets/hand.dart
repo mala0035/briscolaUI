@@ -9,11 +9,13 @@ class Hand extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Row(
-      crossAxisAlignment: CrossAxisAlignment.end,
+      
       children: [
       Image.asset('lib/assets/images/coinThree.png'),
       Image.asset('lib/assets/images/coinTwo.png'),
-      Image.asset('lib/assets/images/coinAce.png')
+      Image.asset('lib/assets/images/coinAce.png'),
+      Image.asset('lib/assets/images/coinKing.png'),
+      Image.asset('lib/assets/images/coinFour.png'),
     ]);
     
     //Image.asset('lib/assets/images/coinTwo.png');
