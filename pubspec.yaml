@@ -62,8 +62,17 @@ flutter:
    assets:
   # - assets\cardset\coins\2.pnglib\data\cardset\coins\2.png
      
-     - lib/assets/images/coinTwooo.jpg
+     
      - lib/assets/images/coinTwo.png
+     - lib/assets/images/coinThree.png
+     - lib/assets/images/coinFour.png
+     - lib/assets/images/coinFive.png
+     - lib/assets/images/coinSix.png
+     - lib/assets/images/coinSeven.png
+     - lib/assets/images/coinJack.png
+     - lib/assets/images/coinKnight.png
+     - lib/assets/images/coinKing.png
+     - lib/assets/images/coinAce.png
      
   #   - images/a_dot_ham.jpeg
 

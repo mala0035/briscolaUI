@@ -9,7 +9,8 @@ class Cardo extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return 
-    Image.asset('lib/assets/images/coinTwo.png');
+    Image.asset('lib/assets/images/coinFour.png');
+    //Image.asset('lib/assets/images/coinTwo.png');
     //Image.asset('lib/assets/images/coinTwooo.jpg');
     //const Image(image: AssetImage('lib/assets/coinTwooo.jpg'));
   }
